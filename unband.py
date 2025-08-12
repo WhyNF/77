@@ -13,6 +13,7 @@ TO_EMAIL = "support@support.whatsapp.com"
 nomor = input("This is unBanned Script !(example: 62xxxxx): ")
 
 # List teks yang mau diacak
+SUBJEK = "{nomor}"
 BODIES = [
     """salam whatsapp developeri kiminse whatsapp hesabını deaktiv etsin whatsapp proqramında narkotik formasında qadağan olunmuş əşyalar satdığı üçün qadağan olunmuş əşyaların satışının sayını azaltmaq və zərər görməmək üçün həmin şəxsin whatsapp hesabını deaktiv etməyi xahiş edirəm millət və dövlət nəsli, Mark Zukerberqdən kömək və whatsapp tərtibatçılarından xahiş edirəm, qadağan olunmuş əşyaların satıcısının whatsapp nömrəsi :{nomor}-dir mənə kömək etdikləri üçün Mark Zukerberqə və whatsapp tərtibatçısına təşəkkür edirəm.",
     "γεια σας προγραμματιστής whatsapp να απενεργοποιήσει τον λογαριασμό whatsapp κάποιου επειδή έχει πουλήσει απαγορευμένα αντικείμενα με τη μορφή φαρμάκων στην εφαρμογή whatsapp, ζητώ να απενεργοποιήσετε τον λογαριασμό whatsapp αυτού του ατόμου για να μειωθεί ο αριθμός των πωλήσεων των απαγορευμένων αντικειμένων και για να μην προκληθεί ζημιά η γενιά του έθνους και του κράτους, ζητώ βοήθεια από τον Mark Zuckerberg και τους προγραμματιστές του whatsapp,
