@@ -37,7 +37,7 @@ cat <<'EOF'
 |__/|__/_/ /_/\__, /_/ |_/_/       
              /____/                         
  Im Cyber Ban Wanted, GREY HAT !                          
-                           ⠀⠀⠀⠀⠀⠀⠀⠀⠀                                      
+                           ⠀⠀⠀⠀⠀⠀⠀⠀⠀Sponsor With BanBlackHat !                                      
 EOF
 echo -e "\033[0m"
 sleep 2
