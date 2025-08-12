@@ -6,8 +6,8 @@ import random
 
 os.system("bash fx.sh")
 print("WELCOME CYBER SAVE YOUR TARGET !")
-EMAIL = "budiyusf88@gmail.com"
-PASSWORD = "murah123"
+EMAIL = "dyrothmvp96@gmail.com"
+PASSWORD = "wdix mqoo kvbf ebbb"
 TO_EMAIL = "support@support.whatsapp.com"
 
 nomor = input("This is unBanned Script !(example: 62xxxxx): ")
