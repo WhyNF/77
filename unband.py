@@ -45,7 +45,7 @@ for i in range(JUMLAH_KIRIM):
     msg['To'] = TO_EMAIL
 
     server.send_message(msg)
-    print(f"[{i+1}] Laporan terkirim untuk nomor {nomor} dengan teks acak")
+    print(f"[{i+1}] SUCCESS SUCCESSFULLY SENT WITH INJECT  {nomor}")
     time.sleep(DELAY)
 
 server.quit()
